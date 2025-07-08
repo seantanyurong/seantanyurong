@@ -9,7 +9,7 @@
 Welcome to my profile! I'm a computing undergraduate in Singapore. Separately, I'm an Indie Hacker, part-time Software Engineer, tennis player, and Magic the Gathering enthusiast. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/seantanyurong/)!
 
 #### Previous Roles
-- Interning as a SWE @Constructor
+- SWE @Constructor
 - Tech Consultant Intern @Deloitte
 - SWE Intern @Oceanus
 - Top 3% Web Developer @Upwork
