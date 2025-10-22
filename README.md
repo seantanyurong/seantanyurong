@@ -2,11 +2,10 @@
 <p>
   <a href="https://www.linkedin.com/in/seantanyurong/">LinkedIn</a> •
   <a href="https://seantanyurong.com/">Website</a> •
-  <a href="https://twitter.com/seantanyurong">Twitter</a> •
   <a href="mailto:seantanyurong@gmail.com">Gmail</a>
 </p>
 
-Welcome to my profile! I'm a computing undergraduate in Singapore. Separately, I'm an Software Engineer, tennis player, and Magic the Gathering / Flesh and Blood enthusiast. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/seantanyurong/)!
+Welcome to my profile! I'm a Software Engineer from Singapore. Separately, I'm a tennis player, and Magic the Gathering / Flesh and Blood enthusiast.
 
 #### Previous Roles
 - SWE @Constructor
