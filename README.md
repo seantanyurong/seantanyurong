@@ -9,9 +9,9 @@ Welcome to my profile! I'm a Software Engineer from Singapore. Separately, I'm a
 
 #### Previous Roles
 - SWE @Constructor
-- Tech Consultant Intern @Deloitte
+- SWE @Upwork
 - SWE Intern @Oceanus
-- Top 3% Web Developer @Upwork
+- Tech Consultant Intern @Deloitte
 - Operations Lead @TAO Ventures
 - Marketing Operations Lead (Martech) @Xplor
 
@@ -19,7 +19,7 @@ Welcome to my profile! I'm a Software Engineer from Singapore. Separately, I'm a
 - [Jobless Club](https://www.jobless.club/)
 - [Knife Sharpening SG](https://www.knifesharpening.sg/)
 - [The 100 Club](https://the100club.io/)
-- [Dungeon House](https://dungeon-house.netlify.app/)
+- [Dungeon House](https://dungeon.house/)
 - [Labyrinth](https://joinlabyrinth.vercel.app/)
 - [Dungeon Meetup](https://dungeon-meetup.vercel.app/)
 - [GMK Art](https://oo-gmkart.netlify.app/)
