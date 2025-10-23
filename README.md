@@ -16,6 +16,8 @@ Welcome to my profile! I'm a Software Engineer from Singapore. Separately, I'm a
 - Marketing Operations Lead (Martech) @Xplor
 
 #### Past Projects
+- [Jobless Club](https://www.jobless.club/)
+- [Knife Sharpening SG](https://www.knifesharpening.sg/)
 - [The 100 Club](https://the100club.io/)
 - [Dungeon House](https://dungeon.house/)
 - [Labyrinth](https://joinlabyrinth.vercel.app/)
@@ -28,11 +30,3 @@ Welcome to my profile! I'm a Software Engineer from Singapore. Separately, I'm a
 - [Olympus Pages](https://olympuspages.netlify.app/)
 - [Nodeflair Replica](https://seantanyurong-nodeflair-assignment.vercel.app/)
 - [Punchin](https://punchinkeys.netlify.app/)
-
-#### Life Goals
-- To make $20k MRR passively by 35, so that I can launch Dungeon House
-- To have read 80 fiction and 80 non-fiction books by 35
-- To become a full-stack web developer capable of building any SaaS product I want solo
-- To make it to an MTG World Championship Top 8 by 35
-- To make it to UTR 6 by 35
-- To have 10k followers by 35
