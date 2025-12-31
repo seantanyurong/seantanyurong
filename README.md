@@ -5,7 +5,7 @@
   <a href="mailto:seantanyurong@gmail.com">Gmail</a>
 </p>
 
-I'm a Software Engineer from Singapore. Separately, I'm a Magic the Gathering / Flesh and Blood enthusiast, Tennis player, [Side Quester](https://seantanyurong.com/) and [Indie Hacker](https://www.jobless.club/).
+I'm a Software Engineer from Singapore. Separately, I'm a NeoVim lover, Flesh and Blood TCG enthusiast, Tennis player, [Side Quester](https://seantanyurong.com/) and [Indie Hacker](https://www.jobless.club/).
 
 #### Previous Roles
 - SWE @Constructor
