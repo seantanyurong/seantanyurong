@@ -10,3 +10,5 @@ I'm a senior software engineer at [Constructor](https://constructor.io/), where 
 Studied in NUS Computing (Honors), and spent a year on exchange in Silicon Valley. Top 3% freelancer on Upwork with $50k+ earned. Featured on [Channel News Asia](https://jobless.club/). Neovim lover.
 
 I'm at my best when dropped into unfamiliar problems and asked to figure them out.
+
+_Check out [my digital garden](https://www.seantanyurong.com/), if you'd like to learn a bit more._
