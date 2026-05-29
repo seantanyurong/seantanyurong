@@ -5,12 +5,8 @@
   <a href="mailto:seantanyurong@gmail.com">Gmail</a>
 </p>
 
-I'm a Software Engineer from Singapore. Separately, I'm a NeoVim lover, Flesh and Blood TCG enthusiast, Tennis player, [Side Quester](https://seantanyurong.com/) and [Indie Hacker](https://www.jobless.club/).
+I'm a senior software engineer at [Constructor]([url](https://constructor.io/)), where I help build AI-powered product search and discovery for ecommerce. Outside of work, I'm CTO of [The Jobless Club]([url](https://jobless.club/)), a Singaporean indie-hacking team behind a few bootstrapped businesses — including the country's #1 knife-sharpening service.
 
-#### Previous Roles
-- Senior SWE @Constructor
-- SWE @Upwork
-- SWE Intern @Oceanus
-- Tech Consultant Intern @Deloitte
-- Operations Lead @TAO Ventures
-- Marketing Operations Lead (Martech) @Xplor
+Studied in NUS Computing (Honors), and spent a year on exchange in Silicon Valley. Top 3% freelancer on Upwork with $50k+ earned. Featured on [Channel News Asia]([url](https://jobless.club/)). Neovim lover.
+
+I'm at my best when dropped into unfamiliar problems and asked to figure them out.
