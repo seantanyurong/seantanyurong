@@ -11,4 +11,6 @@ Studied in NUS Computing (Honors), and spent a year on exchange in Silicon Valle
 
 I'm at my best when dropped into unfamiliar problems and asked to figure them out.
 
+---
+
 _Check out [my digital garden](https://www.seantanyurong.com/), if you'd like to learn a bit more._
