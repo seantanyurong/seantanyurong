@@ -7,7 +7,7 @@
 
 I'm a forward deployed engineer at [Constructor](https://constructor.io/), where I help build AI-powered product search and discovery for ecommerce. Outside of work, I'm CTO of [The Jobless Club](https://jobless.club/), a Singaporean indie-hacking team behind a few bootstrapped businesses — including the country's #1 knife-sharpening service.
 
-Studied in NUS Computing (Honors), and spent a year on exchange in Silicon Valley. Top 3% freelancer on Upwork with $50k+ earned. Featured on [Channel News Asia](https://jobless.club/). Neovim lover.
+Studied in NUS Computing (Honors), and spent a year on exchange in Silicon Valley. Top 3% freelancer on Upwork with $50k+ earned. Featured on [Channel News Asia](https://www.channelnewsasia.com/watch/money-mind-2026/jobless-club-5789621) and [The Financial Coconut podcast](https://www.youtube.com/watch?v=OlyqJy0_srs). Neovim lover.
 
 I'm at my best when dropped into unfamiliar problems and asked to figure them out.
 
